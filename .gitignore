@@ -105,3 +105,5 @@ dist
 example_phrase_html.txt
 notes from studying.txt
 *.txt
+.idea/workspace.xml
+notes from studying.txt
